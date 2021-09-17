@@ -1,0 +1,21 @@
+.dropDownButton{
+    border: 1px solid gray;
+    background-color: white;
+    color: black;
+}
+.title{
+    width: auto;
+    height: auto;
+    background-color: gray;
+    color: white;
+}
+.box{
+    width: 1000px;
+    height: auto;
+    border: 2px solid grey;
+}
+
+h4{
+    margin: 0;
+    padding: 0;
+}
